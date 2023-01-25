@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8726a1d0.css",
+    "main.js": "/static/js/main.4150d15e.js",
+    "static/media/adminportal.gif": "/static/media/adminportal.5f9ba8bf16f3c85493d9.gif",
+    "static/media/qrbasedording.gif": "/static/media/qrbasedording.8b7b1d9c16d543295b02.gif",
+    "static/media/heroimg.gif": "/static/media/heroimg.1484d5ce0435e1397157.gif",
+    "static/media/marketing.gif": "/static/media/marketing.9ac1585707114b1aa164.gif",
+    "static/media/question.gif": "/static/media/question.aef89ac2487505bc3117.gif",
+    "static/media/bgservices.png": "/static/media/bgservices.524eb2d56ce508a82588.png",
+    "static/media/staffportal.gif": "/static/media/staffportal.08b9bc7e0d1e3dff01cd.gif",
+    "static/media/blogimg2.jpg": "/static/media/blogimg2.456fefd5605ca56c3f16.jpg",
+    "static/media/blogimg.png": "/static/media/blogimg.8fcb133b80753f16e6b2.png",
+    "static/media/blogimg1.png": "/static/media/blogimg1.8675338bfe89ac8828fa.png",
+    "static/media/orbasedording.png": "/static/media/orbasedording.ee71b696993f70a8da4c.png",
+    "static/media/marketing.png": "/static/media/marketing.9e0dd9580d702ea809d5.png",
+    "static/media/staffportal.png": "/static/media/staffportal.08bdcff2c81320bf4255.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.8726a1d0.css.map": "/static/css/main.8726a1d0.css.map",
+    "main.4150d15e.js.map": "/static/js/main.4150d15e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8726a1d0.css",
+    "static/js/main.4150d15e.js"
+  ]
+}
